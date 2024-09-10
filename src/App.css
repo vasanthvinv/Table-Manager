@@ -1,0 +1,27 @@
+.head{
+  background-color: rgba(128, 128, 128, 0.455);
+}
+.footter{
+  margin-top: 20px;
+  border: 2px solid rgba(0, 0, 0, 0.148);
+  width: 300px;
+  height: 70px;
+  box-shadow: rgb(174, 20, 20);
+}
+button{
+  background-color: rgb(0, 0, 0);
+  color: aliceblue;
+  margin-left: 20px;
+  margin-top: 20px;
+  padding: auto;
+}
+table,tr,td,th{
+  border: 2px solid black;
+}
+input{
+  outline: none;
+  border: none;
+}
+body{
+  margin-left: 20px;
+}
